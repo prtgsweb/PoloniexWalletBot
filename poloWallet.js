@@ -62,7 +62,6 @@ var run = function * () {
       .evaluate(() => {
     return document.querySelector("div#marketAlert > div.content > div.message").innerHTML
     })
-      //.end()
       if(poloMes && poloMes.includes('maintenance')==true){
         walletStat.push('down');
       }else{
