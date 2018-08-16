@@ -1,4 +1,4 @@
-# PoloniexWalletBot
+# Poloniex Wallet Bot
 
 Runs on Node
 
